@@ -17,10 +17,10 @@
   "author": "Ricardo Mendes <rokusu@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "~3.4.0",
+    "gulp": "~3.9.1",
     "sweet": "~0.1.1",
-    "gulp-sweetjs": "~0.2.1",
-    "gulp-util": "~2.2.13",
-    "gulp-concat": "~2.1.7"
+    "gulp-sweetjs": "~0.6.1",
+    "gulp-util": "~3.0.7",
+    "gulp-concat": "~2.6.0"
   }
 }
